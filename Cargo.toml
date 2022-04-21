@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "projects/proj01",
+    "projects/proj02",
+]
